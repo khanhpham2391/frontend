@@ -42,7 +42,7 @@
             .nav-item {
                 margin-right: 45px;
                 .nav-link {
-                    font: 400 13px/80px $title-font;
+                    font: 400 1.1rem/3rem $title-font;
                     text-transform: uppercase;
                     color: $title-color;
                     padding: 0px;
@@ -211,11 +211,10 @@
             display: inline-block;
             line-height: 15px;
             color: #4a4a4a;
-            font-size: 11px;
+            font-size: 12px;
             font-family: $body-font;
             font-weight: 400;
             margin: 0px;
-            text-transform: uppercase;
             border-right: 1px solid $text-color;
             padding: 0px 19px;
             &:last-child {
